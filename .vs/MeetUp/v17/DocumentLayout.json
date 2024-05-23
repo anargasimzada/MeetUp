@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\areas\\admin\\controllers\\speakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\controllers\\speakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\views\\accountcontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\views\\accountcontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\models\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\models\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\viewmodels\\speakers\\createspeakervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\viewmodels\\speakers\\createspeakervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\areas\\admin\\views\\speaker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\views\\speaker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\areas\\admin\\views\\speaker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\views\\speaker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\areas\\admin\\views\\speaker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\views\\speaker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\meetup\\meetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\views\\accountcontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\views\\accountcontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Migrations\\20240523154541_CreateAppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeetUp\\Migrations\\20240523154541_CreateAppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\meetup.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\meetup.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\meetup\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Migrations\\20240522213616_CreateDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F891920-670B-40E7-BDF8-808B9D50D78F}|MeetUp\\MeetUp.csproj|solutionrelative:MeetUp\\Migrations\\20240522213616_CreateDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 50,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MeetUp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:16:29.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Controllers\\AccountController1.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Controllers\\AccountController1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Controllers\\AccountController1.cs",
+              "RelativeToolTip": "MeetUp\\Controllers\\AccountController1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAnwBYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:28:52.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Models\\AppUser.cs",
+              "RelativeToolTip": "MeetUp\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:47:12.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Speaker.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Models\\Speaker.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Models\\Speaker.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Models\\Speaker.cs",
+              "RelativeToolTip": "MeetUp\\Models\\Speaker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:42:06.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateSpeakerVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\ViewModels\\Speakers\\CreateSpeakerVM.cs",
+              "RelativeDocumentMoniker": "MeetUp\\ViewModels\\Speakers\\CreateSpeakerVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\ViewModels\\Speakers\\CreateSpeakerVM.cs",
+              "RelativeToolTip": "MeetUp\\ViewModels\\Speakers\\CreateSpeakerVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:47:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "MeetUp\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "MeetUp\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:32:45.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "MeetUp\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "MeetUp\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:29:56.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\AccountController1\\Login.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Views\\AccountController1\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\AccountController1\\Login.cshtml",
+              "RelativeToolTip": "MeetUp\\Views\\AccountController1\\Login.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAvwDMAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:26:37.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeakerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAnwCwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:38:36.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T08:37:46.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:00:49.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwDQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:39:43.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAvwEcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:39:21.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Program.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Program.cs",
+              "RelativeToolTip": "MeetUp\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:20:03.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\appsettings.json",
+              "RelativeDocumentMoniker": "MeetUp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\appsettings.json",
+              "RelativeToolTip": "MeetUp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T20:21:34.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MeetUp\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "MeetUp\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:17:45.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MeetUp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:27:36.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MeetUp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAvwIEAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:16:45.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\AccountController1\\Register.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Views\\AccountController1\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\AccountController1\\Register.cshtml",
+              "RelativeToolTip": "MeetUp\\Views\\AccountController1\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:36:57.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240523154541_CreateAppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Migrations\\20240523154541_CreateAppUser.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Migrations\\20240523154541_CreateAppUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Migrations\\20240523154541_CreateAppUser.cs",
+              "RelativeToolTip": "MeetUp\\Migrations\\20240523154541_CreateAppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:45:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MeetUp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MeetUp\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-22T20:36:32.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:39:09.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MeetUp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:17:04.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240522213616_CreateDb.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Migrations\\20240522213616_CreateDb.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Migrations\\20240522213616_CreateDb.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Migrations\\20240522213616_CreateDb.cs",
+              "RelativeToolTip": "MeetUp\\Migrations\\20240522213616_CreateDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:36:17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:39:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MeetUp.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\MeetUp.csproj",
+              "RelativeDocumentMoniker": "MeetUp\\MeetUp.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\MeetUp.csproj",
+              "RelativeToolTip": "MeetUp\\MeetUp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T20:15:48.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\MeetUp\\MeetUp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MeetUp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:16:56.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
